@@ -1,0 +1,10 @@
+User-agent: Mediapartners-Google
+Disallow: 
+
+User-agent: *
+Disallow: /search/label/
+Disallow: /search?q=
+Allow: /
+Allow: /p/
+
+Sitemap: https://www.errstein.com/sitemap.xml
